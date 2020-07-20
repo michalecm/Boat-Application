@@ -1,0 +1,9 @@
+C:\Users\michalecmb\Downloads\BoatClasses\BoatClasses\BoatClasses\bin\Debug\BoatClasses.dll
+C:\Users\michalecmb\Downloads\BoatClasses\BoatClasses\BoatClasses\bin\Debug\BoatClasses.pdb
+C:\Users\michalecmb\Downloads\BoatClasses\BoatClasses\BoatClasses\bin\Debug\BoatClasses.xml
+C:\Users\michalecmb\Downloads\BoatClasses\BoatClasses\BoatClasses\obj\Debug\BoatClasses.vbprojResolveAssemblyReference.cache
+C:\Users\michalecmb\Downloads\BoatClasses\BoatClasses\BoatClasses\obj\Debug\BoatClasses.Resources.resources
+C:\Users\michalecmb\Downloads\BoatClasses\BoatClasses\BoatClasses\obj\Debug\BoatClasses.vbproj.GenerateResource.Cache
+C:\Users\michalecmb\Downloads\BoatClasses\BoatClasses\BoatClasses\obj\Debug\BoatClasses.dll
+C:\Users\michalecmb\Downloads\BoatClasses\BoatClasses\BoatClasses\obj\Debug\BoatClasses.xml
+C:\Users\michalecmb\Downloads\BoatClasses\BoatClasses\BoatClasses\obj\Debug\BoatClasses.pdb

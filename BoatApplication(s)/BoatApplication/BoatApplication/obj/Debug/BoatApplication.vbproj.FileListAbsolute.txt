@@ -1,0 +1,16 @@
+C:\Users\michalecmb\AppData\Local\Temporary Projects\BoatApplication\bin\Debug\BoatApplication.exe.config
+C:\Users\michalecmb\Downloads\BoatClasses\BoatClasses\BoatClasses\BoatApplication\BoatApplication\bin\Debug\BoatApplication.exe.config
+C:\Users\michalecmb\Downloads\BoatApplication\BoatApplication\bin\Debug\BoatApplication.exe.config
+C:\Users\michalecmb\Downloads\BoatApplication\BoatApplication\bin\Debug\BoatApplication.exe
+C:\Users\michalecmb\Downloads\BoatApplication\BoatApplication\bin\Debug\BoatApplication.pdb
+C:\Users\michalecmb\Downloads\BoatApplication\BoatApplication\bin\Debug\BoatApplication.xml
+C:\Users\michalecmb\Downloads\BoatApplication\BoatApplication\bin\Debug\BoatClasses.dll
+C:\Users\michalecmb\Downloads\BoatApplication\BoatApplication\bin\Debug\BoatClasses.pdb
+C:\Users\michalecmb\Downloads\BoatApplication\BoatApplication\bin\Debug\BoatClasses.xml
+C:\Users\michalecmb\Downloads\BoatApplication\BoatApplication\obj\Debug\BoatApplication.vbprojResolveAssemblyReference.cache
+C:\Users\michalecmb\Downloads\BoatApplication\BoatApplication\obj\Debug\BoatApplication.frmBoatApplication.resources
+C:\Users\michalecmb\Downloads\BoatApplication\BoatApplication\obj\Debug\BoatApplication.Resources.resources
+C:\Users\michalecmb\Downloads\BoatApplication\BoatApplication\obj\Debug\BoatApplication.vbproj.GenerateResource.Cache
+C:\Users\michalecmb\Downloads\BoatApplication\BoatApplication\obj\Debug\BoatApplication.exe
+C:\Users\michalecmb\Downloads\BoatApplication\BoatApplication\obj\Debug\BoatApplication.xml
+C:\Users\michalecmb\Downloads\BoatApplication\BoatApplication\obj\Debug\BoatApplication.pdb
